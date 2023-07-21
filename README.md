@@ -19,3 +19,5 @@ e
 
 edicao: Vinicius Gomes
 main
+
+ja cansei do git
