@@ -13,12 +13,9 @@ Repositorio para simular contribuição no projeto
 
 
 edição Elias-Lopes enviada pelo vs code 
- pelo vs "code""""
+ pelo vs "code"  pela 10 vez
 
-
-edição Elias-Lopes
-edição : elias Lopes pelo vs "code""""
-
+e
 
 edicao: Vinicius Gomes
 main
