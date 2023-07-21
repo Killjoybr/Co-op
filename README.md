@@ -19,4 +19,5 @@ e
 
 edicao: Vinicius Gomes
 main
-Elias = antes do git eu era feliz e não  sabia 
+
+ja cansei do git
